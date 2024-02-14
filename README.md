@@ -5,7 +5,6 @@
 <h3 align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Hey%2C+I'm+Dayoung.;AI+Researcher.&font=Fira%20Code&center=true&color=e0c8d0&width=380&height=50&duration=4000&pause=1000">
 </h3>
-</ br>
 
 
 
@@ -15,8 +14,8 @@
 - Deep Learning
 - AI Applications in SoC
 - Graphics and Visualization
-</ br>
-</ br>
+
+<br>
 
 
 <!-- Language and Tools -->
@@ -41,8 +40,10 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</ br>
-</ br>
+
+
+<br>
+<br>
 
 
 
@@ -63,8 +64,8 @@
 <p align="center">
 <!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
 </p>
-<br/>
-<br/>
+
+<br><br>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frebedy%2Frebedy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
