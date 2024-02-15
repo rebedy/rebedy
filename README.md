@@ -1,9 +1,3 @@
-<p  align="center">
-<img  src="![IAI](https://github.com/rebedy/rebedy/assets/24971577/8d397652-53df-47fd-abbe-8cce16e526a0)"  width="100%">
-</p>
-
-
-
 <h1 align="center">
   <img src="https://slackmojis.com/emojis/20940-wave/download" width="60"/>
 </h1>
