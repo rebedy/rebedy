@@ -44,6 +44,14 @@
 <br>
 <br>
 
+
+
+
+
+
+<!-- Learning Tools and Platforms -->
+
+
 <!--
 <h3 align="left">Learning Tools and Platforms 📚</h3>
 <p  align="center">
@@ -63,10 +71,17 @@
 </p>
 -->
 
-
 <br>
-<be>
+<br>
 
+
+
+
+
+
+<!-- Github stats -->
+
+<h3 align="left">Github Stats 📚</h3>
 
 <table border="0">
 <tr border="0">
@@ -81,10 +96,12 @@
 </tr>
 </table>
 
-
-
 <br>
 <br>
+
+
+
+
 
 <!-- Social Media Icons -->
 
