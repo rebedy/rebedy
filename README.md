@@ -38,10 +38,11 @@
 <img  alt="TensorFlow"  src="https://img.shields.io/badge/Tensor Flow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img  alt="Docker"  src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <!-- <img  alt="Kubernetes"  src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/> -->
+<!-- <img  alt="Unreal Engine"  src="https://img.shields.io/badge/unreal engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/> -->
 </p>
 
 <br>
-<be>
+<br>
 
 <!--
 <h3 align="left">Learning Tools and Platforms 📚</h3>
@@ -63,6 +64,27 @@
 -->
 
 
+<br>
+<be>
+
+
+<table border="0">
+<tr border="0">
+<td width="50%" align="center">
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rebedy&theme=material-palenight&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+</td>
+
+<td width="50%" align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rebedy&theme=material-palenight&hide_border=true" alt="GitHub Streak" /></a>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rebedy&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&no-bg=true&no-frame=true" />
+</td>
+</tr>
+</table>
+
+
+
+<br>
+<br>
 
 <!-- Social Media Icons -->
 
