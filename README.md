@@ -44,7 +44,7 @@
 <be>
 
 <!--
-<h3 align="left">Learning Tools and Platforms </h3>
+<h3 align="left">Learning Tools and Platforms 📚</h3>
 <p  align="center">
 <img  alt="Duolingo"  src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"/>
 <img  alt="FreeCodeCamp"  src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
