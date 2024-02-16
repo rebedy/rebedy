@@ -86,7 +86,7 @@
 <table border="0">
 <tr border="0">
 <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rebedy&theme=material-palenight&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rebedy&layout=donut-vertical&theme=material-palenight&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
 </td>
 
 <td width="50%" align="center">
