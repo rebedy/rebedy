@@ -90,7 +90,7 @@
 </td>
 
 <td width="50%" align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rebedy&theme=material-palenight&hide_border=true" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rebedy&theme=material-palenight&hide_border=true" alt="GitHub Streak" /></a>
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rebedy&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&no-bg=true&no-frame=true" />
 </td>
 </tr>
