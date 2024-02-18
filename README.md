@@ -24,8 +24,12 @@
 <p  align="center">
 <img  alt="Visual Studio Code"  src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img  alt="Visual Studio"  src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-<img  alt="Markdown"  src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+</p>
+<p  align="center">
 <img  alt="Python"  src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img  alt="PyTorch"  src="https://img.shields.io/badge/PyTorch-%23FF6F00.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img  alt="TensorFlow"  src="https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img  alt="Markdown"  src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img  alt="MySQL"  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <!-- <img  alt="CSS3"  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> -->
 <!-- <img  alt="JavaScript"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
@@ -35,8 +39,7 @@
 <img  alt="Github"  src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img  alt="Gitlab"  src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <!-- <img  alt="AWS"  src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> -->
-<img  alt="TensorFlow"  src="https://img.shields.io/badge/Tensor Flow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img  alt="Docker"  src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<!-- <img  alt="Docker"  src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> -->
 <!-- <img  alt="Kubernetes"  src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/> -->
 <!-- <img  alt="Unreal Engine"  src="https://img.shields.io/badge/unreal engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/> -->
 </p>
