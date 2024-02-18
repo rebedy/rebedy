@@ -9,11 +9,12 @@
 
 
 <!-- Interests -->
-<h3 align="left">Interests 🤔</h3>
+<h3 align="left">Interests 💬</h3>
 
 - Deep Learning
 - AI Applications in SoC
 - Graphics and Visualization
+- Medical AI
 
 <br>
 
@@ -89,12 +90,14 @@
 <table border="0">
 <tr border="0">
 <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rebedy&layout=donut-vertical&theme=material-palenight&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebedy&layout=donut-vertical&theme=discord_old_blurple&hide_border=true&no-bg=true&no-frame=true&show_icons=true&langs_count=8"/>
 </td>
 
+<!-- material-palenight / nord -->
+
 <td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rebedy&theme=material-palenight&hide_border=true" alt="GitHub Streak" /></a>
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rebedy&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&no-bg=true&no-frame=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rebedy&theme=discord_old_blurple&hide_border=true&show_icons=true" alt="GitHub Streak" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rebedy&include_all_commits=true&theme=discord_old_blurple&hide_border=true&no-bg=true&no-frame=true&show_icons=true" />
 </td>
 </tr>
 </table>
