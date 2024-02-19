@@ -46,7 +46,7 @@
 </p>
 
 <br>
-<br>
+<!-- <br> -->
 
 
 
@@ -76,7 +76,7 @@
 -->
 
 <br>
-<br>
+<!-- <br> -->
 
 
 
@@ -90,20 +90,20 @@
 <table border="0">
 <tr border="0">
 <td width="50%" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebedy&layout=donut-vertical&theme=discord_old_blurple&hide_border=true&no-bg=true&no-frame=true&show_icons=true&langs_count=8"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebedy&layout=donut-vertical&theme=shadow_green&hide_border=true&no-bg=true&no-frame=true&show_icons=true&langs_count=8"/>
 </td>
 
-<!-- material-palenight / nord -->
+<!-- material-palenight / nord / discord_old_blurpl -->
 
 <td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rebedy&theme=discord_old_blurple&hide_border=true&show_icons=true" alt="GitHub Streak" /></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rebedy&include_all_commits=true&theme=discord_old_blurple&hide_border=true&no-bg=true&no-frame=true&show_icons=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rebedy&theme=shadow_green&hide_border=true&show_icons=true" alt="GitHub Streak" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rebedy&include_all_commits=true&theme=shadow_green&hide_border=true&no-bg=true&no-frame=true&show_icons=true" />
 </td>
 </tr>
 </table>
 
 <br>
-<br>
+<!-- <br> -->
 
 
 
@@ -127,10 +127,13 @@
 <!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
 </p>
 
-<br><br>
+<br>
+<br>
+<br>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frebedy%2Frebedy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frebedy%2Frebedy&count_bg=%23194400&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
