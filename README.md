@@ -31,7 +31,7 @@
 <img  alt="PyTorch"  src="https://img.shields.io/badge/PyTorch-%23FF6F00.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img  alt="TensorFlow"  src="https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img  alt="Markdown"  src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-<img  alt="MySQL"  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<!-- <img  alt="MySQL"  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> -->
 <!-- <img  alt="CSS3"  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> -->
 <!-- <img  alt="JavaScript"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
 </p>
